@@ -33,8 +33,8 @@ export default function Navbar() {
 
   {/* Icons */}
   <div className="flex">
-    <i><Image src={cart} alt="icon" width={22} height={22} className="mr-2 max-sm:text-white" /></i>
-    <i><Image src={icon} alt="icon" width={22} height={22} className="max-sm:text-white"/></i>
+    <i><Image src={cart} alt="icon" width={22} height={22} className="mr-2 max-sm:bg-white" /></i>
+    <i><Image src={icon} alt="icon" width={22} height={22} className="max-sm:bg-white"/></i>
   </div>
 </div>
 
