@@ -10,7 +10,7 @@ export default function Arrivals() {
         <div>
 
             {/* arrivals */}
-            <h1 className="text-[48px] text-center text-black font-black mt-4 max-sm:text-[30px]">NEW ARRIVALS</h1>
+            <h1 className="text-[48px] text-center text-black font-black mt-4 max-sm:text-[30px] max-sm:text-white">NEW ARRIVALS</h1>
             <div className="flex justify-center gap-3 mt-5 flex-wrap max-sm:gap-40">
     <div className="w-[285px] h-[270px] bg-[#F0EEED] rounded-[20px] shadow-lg hover:scale-105 transition-transform duration-300">
         <Image src={image1} alt="img" className="h-[312px]" />
