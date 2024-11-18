@@ -8,7 +8,7 @@ export default function Browse() {
         <div>
              {/* browser default */}
             <div className="mt-24 m-auto w-[1239px] h-[780px] top-[2417px] left-[100px] rounded-[40px] bg-[#F0F0F0] max-sm:w-[345px] max-sm:h-[980px] max-sm:mr-[16px]">
-                <h1 className="text-[42px] font-black text-center pt-16 max-sm:text-[33px]">BROWSE BY DRESS STYLE</h1>
+                <h1 className="text-[42px] font-black text-center pt-16 max-sm:text-[33px] max-sm:text-black">BROWSE BY DRESS STYLE</h1>
                 <div className='flex flex-wrap pt-10'>
                 <Image src={f61} alt='img' width={500} height={400} className='pl-32 max-sm:relative right-16 max-sm:w-[350px] max-sm:h-[170px]'/>
                 <Image src={f62} alt='img' width={600} height={400} className='pl-4 max-sm:pt-4  max-sm:w-[230px] max-sm:h-[190px] max-sm:relative left-12'/>
