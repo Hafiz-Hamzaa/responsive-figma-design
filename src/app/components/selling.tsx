@@ -12,7 +12,7 @@ export default function Selling() {
             {/* <div className="m-auto w-[1230px]  mt-14">
             <div className="w-[1240px] border-1 h-[2px] bg-[#0000001A] max-sm:w-[300px] max-sm:ml-[40px]"></div>
             </div> */}
-            <h1 className="text-[48px] text-center text-black font-black mt-12 max-sm:text-[30px]">TOP SELLING</h1>
+            <h1 className="text-[48px] text-center text-black font-black mt-12 max-sm:text-[30px] max-sm:text-white">TOP SELLING</h1>
             <div className="flex justify-center gap-3 mt-5 flex-wrap max-sm:gap-40">
     <div className="w-[285px] h-[270px] bg-[#F0EEED] rounded-[20px] shadow-lg hover:scale-105 transition-transform duration-300">
         <Image src={image1} alt="img" className="h-[312px]" />
