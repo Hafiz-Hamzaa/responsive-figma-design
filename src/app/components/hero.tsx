@@ -9,7 +9,7 @@ export default function Hero() {
    {/* hero section */}
         <div className="bg-[#F2F0F1] mt-5 pl-12 lg:flex max-sm:pl-5">
                 <div>
-                <h1 className="text-[60px] font-black leading-[65px] pt-12 max-sm:text-[37px] max-sm:leading-[45px] ">FIND CLOTHES <br /> THAT MATCHES YOUR STYLE</h1>
+                <h1 className="text-[60px] font-black leading-[65px] pt-12 max-sm:text-[37px] max-sm:leading-[45px] text-black ">FIND CLOTHES <br /> THAT MATCHES YOUR STYLE</h1>
                 <p className="text-[#00000099] mt-4 max-sm:text-[16px]">Browse through our diverse range of meticulously crafted garments, designed <br /> to bring out your individuality and cater to your sense of style.</p>
                 <button className="w-[210px] h-[52px] rounded-[62px] py-4 px-[52px] bg-black text-white mt-6 max-sm:w-[340px]">Shop Now</button>
                 <div className="flex">
